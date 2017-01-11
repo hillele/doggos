@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#dade6a",
+        "marker-border": "#000000",
+        "marker-size": "large",
+        "Link": "http://geotaggingchampion.tumblr.com/post/155601612702/another-visit-up-to-mukilteo-to-see-cute-lil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2986888885498,
+          47.868113622827785
+        ]
+      }
+    }
+  ]
+}
